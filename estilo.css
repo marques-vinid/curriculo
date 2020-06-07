@@ -1,0 +1,54 @@
+.foto-perfil {
+		width: 250px;
+		height: 250px;
+	}
+
+	.titulo-principal, .subtitle {
+		text-align: center;
+
+	}
+    
+    .insta, .email, .github {
+    	width: 70px;
+    	height: 70px;
+    	padding: 2px;
+    }
+
+    .redes-sociais ul {
+    	display: flex;
+    	position: absolute;
+    	top: 250px;
+    	left: 450px;
+
+    }
+	
+	.smarc {
+		list-style-type: none;
+	}
+
+	a {
+		text-decoration: none;
+		color: #980F3D;
+	}
+
+	a:hover {
+		font-size: 25px;
+		opacity: 0.4;
+	}
+
+	h2, h3 {
+		font-family: 'Roboto Slab', serif;
+		color: #005C45;
+		
+	}
+
+	.form, .skills, p {
+		font-family: 'Roboto Slab', serif;
+		color: #660000;
+	}
+    
+    .esq {
+    	position: relative;
+    	left: 270px;
+    }
+    
